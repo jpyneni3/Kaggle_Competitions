@@ -11,4 +11,5 @@ Results<br/>
 | ADA | .77778            | .70813           |
 | KNN | .81111            | .76076           |
 | MLP | .73333            | .76555           |
-| AnalysisMLP| .86666     | .75598           |g
+| AnalysisMLP| .86666     | .75598           |
+| AnalysisKNN| .83333     | .76555           |
