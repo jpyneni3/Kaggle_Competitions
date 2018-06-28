@@ -13,3 +13,5 @@ Results<br/>
 | MLP | .73333            | .76555           |
 | AnalysisMLP| .86666     | .75598           |
 | AnalysisKNN| .83333     | .76555           |
+| AnalysisADA| .83333     | .71291           |
+| AnalysisRF | .82222     | .76555           |
